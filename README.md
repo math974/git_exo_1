@@ -28,3 +28,4 @@ Auteurs :
  - Fabien Rozar
  - Junot Montpre
  - Samuel Valentin
+ - Mathias BALLOT
