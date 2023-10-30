@@ -29,3 +29,4 @@ Auteurs :
  - Junot Montpre
  - Samuel Valentin
  - Mathias BALLOT
+ - Arnassalom Lucas
